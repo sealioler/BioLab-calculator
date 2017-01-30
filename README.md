@@ -1,7 +1,7 @@
-# BioLab-calculator
+# BioLab-Calculator
 Practical calculators in biolab, include simple version and GUI(Tk) version, write in Python2.7
 
-#Antibody calculator
+#Antibody Calculator
 Calculate the volume of single concentrate antibody solution and dilute solution to prepare working solution.
 Using in WB, IHC or other immuno-staining solution preparation.
 
