@@ -1,10 +1,6 @@
 # BioLab-calculator
 Practical calculators in biolab, include simple version and GUI(Tk) version, write in Python2.7
 
-#生物實驗室計算機
-生物及醫學實驗室的實用小計算機，包含用Python2.7寫的一般簡單版以及含GUI(Tk)的版本，GUI版程式碼下載回去打包一下就可以用了。
-
-
 #Antibody calculator
 Calculate the volume of single concentrate antibody solution and dilute solution to prepare working solution.
 Using in WB, IHC or other immuno-staining solution preparation.
@@ -12,6 +8,9 @@ Using in WB, IHC or other immuno-staining solution preparation.
 #Working Solution Calculator
 Calculate the volume of mutiple different concentrate solutions and dilute solution to prepare working solution.
 Most using in lysis buffer preparation.
+
+#生物實驗室計算機
+生物及醫學實驗室的實用小計算機，包含用Python2.7寫的一般簡單版以及含GUI(Tk)的版本，GUI版程式碼下載回去打包一下就可以用了。
 
 #抗體計算機
 計算配製正確濃度抗體容易中需用多少體積的單一濃縮抗體以及稀釋溶液。拿來WB或IHC時配抗體用。
