@@ -37,6 +37,6 @@ while True:
         for num in range(len(start_fold)):
             print str("%.3f" % stock_volume[num]) + ' ul '\
                    +str(start_fold[num]) + 'x '+str(stock_name[num])
-        print 'in ' + str("%.3f" % dilute_volume)+' '+dilute_solution
+        print 'in ' + str("%.3f" % dilute_volume)+' ul '+dilute_solution
     
 
